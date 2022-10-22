@@ -1,0 +1,5 @@
+.DS_Store
+local/
+INSTALL/Data Calculus Toolbox.prj
+INSTALL/remove_paths.m
+docsgeneration/
